@@ -1,0 +1,14 @@
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\bin\Debug\netcoreapp2.1\DotNet.SampleRestApi.deps.json
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\bin\Debug\netcoreapp2.1\DotNet.SampleRestApi.runtimeconfig.json
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\bin\Debug\netcoreapp2.1\DotNet.SampleRestApi.runtimeconfig.dev.json
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\bin\Debug\netcoreapp2.1\DotNet.SampleRestApi.dll
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\obj\Debug\netcoreapp2.1\DotNet.SampleRestApi.csprojAssemblyReference.cache
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\obj\Debug\netcoreapp2.1\DotNet.SampleRestApi.csproj.CoreCompileInputs.cache
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\obj\Debug\netcoreapp2.1\DotNet.SampleRestApi.RazorAssemblyInfo.cache
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\obj\Debug\netcoreapp2.1\DotNet.SampleRestApi.RazorAssemblyInfo.cs
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\obj\Debug\netcoreapp2.1\DotNet.SampleRestApi.AssemblyInfoInputs.cache
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\obj\Debug\netcoreapp2.1\DotNet.SampleRestApi.AssemblyInfo.cs
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\obj\Debug\netcoreapp2.1\DotNet.SampleRestApi.RazorTargetAssemblyInfo.cache
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\bin\Debug\netcoreapp2.1\DotNet.SampleRestApi.pdb
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\obj\Debug\netcoreapp2.1\DotNet.SampleRestApi.dll
+C:\Users\krkmz\source\repos\DotNet.SampleRestApi\DotNet.SampleRestApi\obj\Debug\netcoreapp2.1\DotNet.SampleRestApi.pdb
